@@ -13,6 +13,5 @@ Hi, I’m Sakshi Yadav, a passionate Computer Science Engineering student with a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakshiyadav2623&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sakshiyadav2623&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
